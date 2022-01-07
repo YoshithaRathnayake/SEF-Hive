@@ -9,6 +9,6 @@
 # <img src="Screenshot 2022-01-06 075231.png">
  
 #
-## Pull Request successfully merged
+## <a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake"><b><i>Pull Request successfully merged</i></b></a>
  
 # <div align="center"><img src="PR Merged.png"></div>
