@@ -5,7 +5,7 @@
 # 
 ## <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><b><i>Level 0 - Contributor Kraken</i></b></a>
  
-# <div align="center"><img src="Level 0.png"></div>
+# <div align="center"><a href="https://sef.discourse.group/badges/106/level-0-contributor-kraken?username=yoshitharathnayake"><img src="Level 0.png"></a></div>
 # <img src="Screenshot 2022-01-06 075231.png">
  
 #
