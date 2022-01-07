@@ -11,4 +11,4 @@
 #
 ## <a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake"><b><i>Pull Request successfully merged</i></b></a>
  
-# <div align="center"><img src="PR Merged.png"></div>
+# <div align="center"><a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake"><img src="PR Merged.png"></a></div>
