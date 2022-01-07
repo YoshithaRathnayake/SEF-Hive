@@ -9,6 +9,6 @@
 # <img src="Screenshot 2022-01-06 075231.png">
  
 #
-## 
+## Pull Request successfully merged
  
 # <div align="center"><img src="PR Merged.png"></div>
