@@ -78,3 +78,10 @@
 ## <a href="https://sef.discourse.group/badges/9/autobiographer?username=yoshitharathnayake"><b><i>Autobiographer Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/9/autobiographer?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151776676-53b51b11-c328-4b25-9968-6891ff1c00d0.png)</a></div>
+ 
+ 
+<!-- Basic Badge -->
+#
+## <a href="https://sef.discourse.group/badges/1/basic?username=yoshitharathnayake"><b><i>Basic Badge</i></b></a>
+ 
+# <div align="center"><a href="https://sef.discourse.group/badges/1/basic?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151777025-96aa77c3-d9d5-4365-bbb8-6345bea989e3.png)</a></div>
