@@ -25,9 +25,9 @@
  
 # <div align="center"><img src="Images/Level 1 - Titan Developer.png" height="300px"></div> 
  
-# <div align="center"><a href="https://sef.discourse.group/badges/107/level-1-titan-developer?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151772120-c335b3b1-5bf8-4403-b024-ef3c31ba5c8f.png)</a></div>
+# <div align="center"><a href="https://sef.discourse.group/badges/108/level-2-git-gojira?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151773470-c7f9c513-c2ab-4af3-9881-1cc93e86ad06.png)</a></div>
  
-# <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=1&certificate=56Hbki&7H"><img src="Images/Level 1 - Titan Developer Badge Certificate.png"></a>
+# <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=2&certificate=56Hbki&7H"><img src="Images/Level 1 - Titan Developer Badge Certificate.png"></a>
  
  
 <!-- Level 2 - Git Gojira Badge -->
