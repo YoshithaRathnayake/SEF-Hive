@@ -99,3 +99,10 @@
 ## <a href="https://sef.discourse.group/badges/41/first-emoji?username=yoshitharathnayake"><b><i>First Emoji Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/41/first-emoji?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151777599-cd806190-e005-4c00-9ce7-a16689d0f891.png)</a></div>
+ 
+ 
+<!-- First Mention Badge -->
+#
+## <a href="https://sef.discourse.group/badges/40/first-mention?username=yoshitharathnayake"><b><i>First Mention Badge</i></b></a>
+ 
+# <div align="center"><a href="https://sef.discourse.group/badges/40/first-mention?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151778087-e627d6de-9d43-44be-a94e-bf0dcb1ccee8.png)</a></div>
