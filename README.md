@@ -8,6 +8,9 @@
 # <div align="center"><a href="https://sef.discourse.group/badges/106/level-0-contributor-kraken?username=yoshitharathnayake"><img src="Level 0.png"></a></div>
 # <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><img src="Screenshot 2022-01-06 075231.png"></a>
  
+# 
+## <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><b><i>Level 1 - Titan Developer</i></b></a>
+ 
 #
 ## <a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake"><b><i>1 st Pull Request successfully merged</i></b></a>
  
