@@ -113,3 +113,10 @@
 ## <a href="https://sef.discourse.group/badges/11/first-like?username=yoshitharathnayake"><b><i>First Like Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/11/first-like?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151779131-10bd0e88-ee7c-4dcf-b127-b0922e474fed.png)</a></div>
+ 
+ 
+<!-- First Share Badge -->
+#
+## <a href="https://sef.discourse.group/badges/12/first-share?username=yoshitharathnayake"><b><i>First Share Badge</i></b></a>
+ 
+# <div align="center"><a href="https://sef.discourse.group/badges/12/first-share?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151779410-83909c2f-6237-4ac3-9bd1-3505d3510f3a.png)</a></div>
