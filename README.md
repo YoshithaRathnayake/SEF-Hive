@@ -120,3 +120,10 @@
 ## <a href="https://sef.discourse.group/badges/12/first-share?username=yoshitharathnayake"><b><i>First Share Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/12/first-share?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151779410-83909c2f-6237-4ac3-9bd1-3505d3510f3a.png)</a></div>
+ 
+ 
+<!-- Welcome Badge -->
+#
+## <a href="https://sef.discourse.group/badges/5/welcome?username=yoshitharathnayake"><b><i>Welcome Badge</i></b></a>
+ 
+# <div align="center"><a href="https://sef.discourse.group/badges/5/welcome?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151779712-791b9da4-d4d6-46d2-b956-de34a65bc1e0.png)</a></div>
