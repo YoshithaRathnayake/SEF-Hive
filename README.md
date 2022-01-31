@@ -8,9 +8,11 @@
 # 
 ## <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><b><i>Level 0 - Contributor Kraken</i></b></a>
  
-# <div align="center"><img src="Images/Level 0 - Contributor Kraken.png"></div> 
-# <div align="center"><a href="https://sef.discourse.group/badges/106/level-0-contributor-kraken?username=yoshitharathnayake"><img src="Level 0.png"></a></div>
-# <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><img src="Screenshot 2022-01-06 075231.png"></a>
+# <div align="center"><img src="Images/Level 0 - Contributor Kraken.png" height="300px"></div> 
+ 
+# <div align="center"><a href="https://sef.discourse.group/badges/106/level-0-contributor-kraken?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151771638-16b0cde9-b8c9-4559-a588-651eea6e2ee0.png)</a></div>
+ 
+# <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><img src="Images/Level 0 - Contributor Kraken Badge Certificate.png"></a>
  
 # 
 ## <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><b><i>Level 1 - Titan Developer</i></b></a>
