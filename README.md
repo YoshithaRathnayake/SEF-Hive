@@ -70,4 +70,4 @@
 #
 ## <a href="https://sef.discourse.group/badges/115/5-contributions?username=yoshitharathnayake"><b><i>5 Contributions Badge</i></b></a>
  
-# <div align="center"><a href="https://sef.discourse.group/badges/115/5-contributions?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151775978-6cf82160-cd1a-482e-8cf2-f0f50ff4bc6c.png)</a></div>
+# <div align="center"><a href="https://sef.discourse.group/badges/115/5-contributions?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151775978-6cf82160-cd1a-482e-8cf2-f0f50ff4bc6c.png)</a></div> 
