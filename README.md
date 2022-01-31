@@ -54,6 +54,6 @@
  
  
 #
-## <a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake"><b><i>1 st Pull Request successfully merged</i></b></a>
+## <a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake"><b><i>1 st Pull Request successfully merged Badge</i></b></a>
  
-# <div align="center"><a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake"><img src="PR Merged.png"></a></div>
+# <div align="center"><a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151774698-ff892021-1dbc-42b5-aa57-24099cf2881b.png)</a></div>
