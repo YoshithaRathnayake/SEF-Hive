@@ -52,8 +52,15 @@
 # <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=3&certificate=56Hbki&7H"><img src="Images/Level 3 - SEF Prodigy Badge Certificate.png"></a>
  
  
- 
+<!-- 1 st Pull Request successfully merged Badge -->
 #
 ## <a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake"><b><i>1 st Pull Request successfully merged Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151774698-ff892021-1dbc-42b5-aa57-24099cf2881b.png)</a></div>
+ 
+ 
+<!-- 3 rd Pull Request successfully merged Badge -->
+#
+## <a href="https://sef.discourse.group/badges/114/3-contributions?username=yoshitharathnayake"><b><i>3 rd Pull Request successfully merged Badge</i></b></a>
+ 
+# <div align="center"><a href="https://sef.discourse.group/badges/114/3-contributions?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151775539-cb358b66-10e8-4626-b49f-44e0a24b1634.png)</a></div>
