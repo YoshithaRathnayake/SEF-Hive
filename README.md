@@ -19,7 +19,7 @@
  
 # <div align="center"><img src="Images/Level 1 - Titan Developer.png" height="300px"></div> 
  
-# <div align="center"><a href="https://sef.discourse.group/badges/106/level-0-contributor-kraken?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151772120-c335b3b1-5bf8-4403-b024-ef3c31ba5c8f.png)</a></div>
+# <div align="center"><a href="https://sef.discourse.group/badges/107/level-1-titan-developer?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151772120-c335b3b1-5bf8-4403-b024-ef3c31ba5c8f.png)</a></div>
  
 # <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><img src="Images/Level 1 - Titan Developer Badge Certificate.png"></a>
  
