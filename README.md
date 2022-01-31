@@ -92,3 +92,10 @@
 ## <a href="https://sef.discourse.group/badges/10/editor?username=yoshitharathnayake"><b><i>Editor Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/10/editor?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151777318-4eafe08d-4b52-45de-8c41-5c9d924c54e9.png)</a></div>
+ 
+ 
+<!-- First Emoji Badge -->
+#
+## <a href="https://sef.discourse.group/badges/41/first-emoji?username=yoshitharathnayake"><b><i>First Emoji Badge</i></b></a>
+ 
+# <div align="center"><a href="https://sef.discourse.group/badges/41/first-emoji?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151777599-cd806190-e005-4c00-9ce7-a16689d0f891.png)</a></div>
