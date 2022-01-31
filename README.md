@@ -47,7 +47,7 @@
  
 # <div align="center"><img src="Images/Level 3 - SEF Prodigy.png" height="300px"></div> 
  
-# <div align="center"><a href="https://sef.discourse.group/badges/108/level-2-git-gojira?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151773668-9ec631c4-5b60-40cc-8ea0-c894a07bfd6e.png)</a></div>
+# <div align="center"><a href="https://sef.discourse.group/badges/109/level-3-sef-prodigy?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151774293-b93b42c6-1d75-4161-a39a-7caa0f78e6c3.png)</a></div>
  
 # <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=3&certificate=56Hbki&7H"><img src="Images/Level 3 - SEF Prodigy Badge Certificate.png"></a>
  
