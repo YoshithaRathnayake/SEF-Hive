@@ -85,3 +85,10 @@
 ## <a href="https://sef.discourse.group/badges/1/basic?username=yoshitharathnayake"><b><i>Basic Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/1/basic?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151777025-96aa77c3-d9d5-4365-bbb8-6345bea989e3.png)</a></div>
+ 
+ 
+<!-- Editor Badge -->
+#
+## <a href="https://sef.discourse.group/badges/10/editor?username=yoshitharathnayake"><b><i>Editor Badge</i></b></a>
+ 
+# <div align="center"><a href="https://sef.discourse.group/badges/10/editor?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151777318-4eafe08d-4b52-45de-8c41-5c9d924c54e9.png)</a></div>
