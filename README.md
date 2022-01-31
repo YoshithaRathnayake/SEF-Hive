@@ -9,6 +9,6 @@
 # <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><img src="Screenshot 2022-01-06 075231.png"></a>
  
 #
-## <a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake"><b><i>Pull Request successfully merged</i></b></a>
+## <a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake"><b><i>1 st Pull Request successfully merged</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake"><img src="PR Merged.png"></a></div>
