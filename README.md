@@ -106,3 +106,10 @@
 ## <a href="https://sef.discourse.group/badges/40/first-mention?username=yoshitharathnayake"><b><i>First Mention Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/40/first-mention?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151778087-e627d6de-9d43-44be-a94e-bf0dcb1ccee8.png)</a></div>
+ 
+ 
+<!-- First Like Badge -->
+#
+## <a href="https://sef.discourse.group/badges/11/first-like?username=yoshitharathnayake"><b><i>First Like Badge</i></b></a>
+ 
+# <div align="center"><a href="https://sef.discourse.group/badges/11/first-like?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151779131-10bd0e88-ee7c-4dcf-b127-b0922e474fed.png)</a></div>
