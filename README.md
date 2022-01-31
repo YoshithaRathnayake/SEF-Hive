@@ -38,7 +38,7 @@
  
 # <div align="center"><a href="https://sef.discourse.group/badges/108/level-2-git-gojira?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151773668-9ec631c4-5b60-40cc-8ea0-c894a07bfd6e.png)</a></div>
  
-# <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=1&certificate=56Hbki&7H"><img src="Images/Level 2 - Git Gojira Badge Certificate.png"></a>
+# <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=2&certificate=56Hbki&7H"><img src="Images/Level 2 - Git Gojira Badge Certificate.png"></a>
 
  
  
