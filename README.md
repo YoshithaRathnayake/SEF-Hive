@@ -16,7 +16,7 @@
  
 # <div align="center"><a href="https://sef.discourse.group/badges/106/level-0-contributor-kraken?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151771638-16b0cde9-b8c9-4559-a588-651eea6e2ee0.png)</a></div>
  
-# <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><img src="Images/Level 0 - Contributor Kraken Badge Certificate.png"></a>
+# <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><img src="Images/Level 0 - Contributor Kraken Badge Certificate.png"></a> 
 
 
 <!-- Level 1 - Titan Developer Badge -->
