@@ -17,6 +17,8 @@
 # <div align="center"><a href="https://sef.discourse.group/badges/106/level-0-contributor-kraken?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151771638-16b0cde9-b8c9-4559-a588-651eea6e2ee0.png)</a></div>
  
 # <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=0&certificate=56Hbki&7H"><img src="Images/Level 0 - Contributor Kraken Badge Certificate.png"></a> 
+#
+> I got this Badge when I am 13 years old (Grade 8D).
 
 
 <!-- Level 1 - Titan Developer Badge -->
@@ -28,6 +30,8 @@
 # <div align="center"><a href="https://sef.discourse.group/badges/107/level-1-titan-developer?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151772120-c335b3b1-5bf8-4403-b024-ef3c31ba5c8f.png)</a></div>
  
 # <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=1&certificate=56Hbki&7H"><img src="Images/Level 1 - Titan Developer Badge Certificate.png"></a>
+#
+> I got this Badge when I am 13 years old (Grade 8D).
  
  
 <!-- Level 2 - Git Gojira Badge -->
@@ -39,6 +43,8 @@
 # <div align="center"><a href="https://sef.discourse.group/badges/108/level-2-git-gojira?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151773668-9ec631c4-5b60-40cc-8ea0-c894a07bfd6e.png)</a></div>
  
 # <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=2&certificate=56Hbki&7H"><img src="Images/Level 2 - Git Gojira Badge Certificate.png"></a>
+#
+> I got this Badge when I am 13 years old (Grade 8D).
 
  
 <!-- Level 3 - SEF Prodigy Badge -->
@@ -50,6 +56,8 @@
 # <div align="center"><a href="https://sef.discourse.group/badges/109/level-3-sef-prodigy?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151774293-b93b42c6-1d75-4161-a39a-7caa0f78e6c3.png)</a></div>
  
 # <a href="https://sefglobal.org/developers/?user=YoshithaRathnayake&badge=3&certificate=56Hbki&7H"><img src="Images/Level 3 - SEF Prodigy Badge Certificate.png"></a>
+#
+> I got this Badge when I am 13 years old (Grade 8D).
  
  
 <!-- 1 st Contribution Badge -->
@@ -57,6 +65,8 @@
 ## <a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake"><b><i>1 st Contribution Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/112/1st-contribution?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151774698-ff892021-1dbc-42b5-aa57-24099cf2881b.png)</a></div>
+#
+> I got this Badge when I am 13 years old (Grade 8D).
  
  
 <!-- 3 Contributions Badge -->
@@ -64,13 +74,17 @@
 ## <a href="https://sef.discourse.group/badges/114/3-contributions?username=yoshitharathnayake"><b><i>3 Contributions Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/114/3-contributions?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151775539-cb358b66-10e8-4626-b49f-44e0a24b1634.png)</a></div>
+#
+> I got this Badge when I am 13 years old (Grade 8D).
  
  
 <!-- 5 Contributions Badge -->
 #
 ## <a href="https://sef.discourse.group/badges/115/5-contributions?username=yoshitharathnayake"><b><i>5 Contributions Badge</i></b></a>
  
-# <div align="center"><a href="https://sef.discourse.group/badges/115/5-contributions?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151775978-6cf82160-cd1a-482e-8cf2-f0f50ff4bc6c.png)</a></div> 
+# <div align="center"><a href="https://sef.discourse.group/badges/115/5-contributions?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151775978-6cf82160-cd1a-482e-8cf2-f0f50ff4bc6c.png)</a></div>
+#
+> I got this Badge when I am 13 years old (Grade 8D).
  
  
 <!-- Autobiographer Badge -->
@@ -78,6 +92,8 @@
 ## <a href="https://sef.discourse.group/badges/9/autobiographer?username=yoshitharathnayake"><b><i>Autobiographer Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/9/autobiographer?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151776676-53b51b11-c328-4b25-9968-6891ff1c00d0.png)</a></div>
+#
+> I got this Badge when I am 13 years old (Grade 8D).
  
  
 <!-- Basic Badge -->
@@ -85,13 +101,16 @@
 ## <a href="https://sef.discourse.group/badges/1/basic?username=yoshitharathnayake"><b><i>Basic Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/1/basic?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151777025-96aa77c3-d9d5-4365-bbb8-6345bea989e3.png)</a></div>
- 
+#
+> I got this Badge when I am 13 years old (Grade 8D).
  
 <!-- Editor Badge -->
 #
 ## <a href="https://sef.discourse.group/badges/10/editor?username=yoshitharathnayake"><b><i>Editor Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/10/editor?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151777318-4eafe08d-4b52-45de-8c41-5c9d924c54e9.png)</a></div>
+#
+> I got this Badge when I am 13 years old (Grade 8D).
  
  
 <!-- First Emoji Badge -->
@@ -99,6 +118,8 @@
 ## <a href="https://sef.discourse.group/badges/41/first-emoji?username=yoshitharathnayake"><b><i>First Emoji Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/41/first-emoji?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151777599-cd806190-e005-4c00-9ce7-a16689d0f891.png)</a></div>
+#
+> I got this Badge when I am 13 years old (Grade 8D).
  
  
 <!-- First Mention Badge -->
@@ -106,6 +127,8 @@
 ## <a href="https://sef.discourse.group/badges/40/first-mention?username=yoshitharathnayake"><b><i>First Mention Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/40/first-mention?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151778087-e627d6de-9d43-44be-a94e-bf0dcb1ccee8.png)</a></div>
+#
+> I got this Badge when I am 13 years old (Grade 8D).
  
  
 <!-- First Like Badge -->
@@ -113,6 +136,8 @@
 ## <a href="https://sef.discourse.group/badges/11/first-like?username=yoshitharathnayake"><b><i>First Like Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/11/first-like?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151779131-10bd0e88-ee7c-4dcf-b127-b0922e474fed.png)</a></div>
+#
+> I got this Badge when I am 13 years old (Grade 8D).
  
  
 <!-- First Share Badge -->
@@ -120,6 +145,8 @@
 ## <a href="https://sef.discourse.group/badges/12/first-share?username=yoshitharathnayake"><b><i>First Share Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/12/first-share?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151779410-83909c2f-6237-4ac3-9bd1-3505d3510f3a.png)</a></div>
+#
+> I got this Badge when I am 13 years old (Grade 8D).
  
  
 <!-- Welcome Badge -->
@@ -127,3 +154,5 @@
 ## <a href="https://sef.discourse.group/badges/5/welcome?username=yoshitharathnayake"><b><i>Welcome Badge</i></b></a>
  
 # <div align="center"><a href="https://sef.discourse.group/badges/5/welcome?username=yoshitharathnayake">![image](https://user-images.githubusercontent.com/97069900/151779712-791b9da4-d4d6-46d2-b956-de34a65bc1e0.png)</a></div>
+#
+> I got this Badge when I am 13 years old (Grade 8D).
